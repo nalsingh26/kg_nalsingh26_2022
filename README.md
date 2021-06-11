@@ -5,8 +5,8 @@ Golang should be installed in the system. If it's not, follow <a href="https://g
 ### Execution command format:
 go run main.go [list of numbers]
 ### Example:
-####Cmd:s
+#### Cmd:
 go run main.go 199 99 456 32
 
-####Expected output:
+#### Expected output:
 OneNineNine,NineNine,FourFiveSix,ThreeTwo
